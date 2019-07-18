@@ -3,8 +3,7 @@
 
 This is the Matplotlib homework assignment.
 
-I used matplotlib, not pandas because I could not figure out the pands syntax properly.
 
 #Observable Trends:
-1. Even though my graphs are incorrect, it's easy to tell that Urban type of city leads in ride-hailing needs-this is clearly illustrated by the size of "Urban" wedges in each of the pie charts.
-2. 
+1. Even though my graphs are incorrect, it's easy to tell that Urban areas leads in ride-hailing needs.
+2. Using the merged dataframe we had to create, I observed that the "fare" amount was not correlated to the city type- Urban cities had fares comparable to those in Suburan and Rural areas, so there must be a different critieria used to determine the fare amount.
